@@ -6,7 +6,7 @@ title: 關於桃子姐姐
 <div class="post">
 	<h1 class="pageTitle">關於桃子姐姐</h1>
 	<img src="{{ '/assets/img/touring.jpg' | relative_url }}" alt="">
-	<p class="intro">唧唧復唧唧，木蘭當戶織。不聞機杼聲，惟聞女嘆息 <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
+	<p class="intro">唧唧復唧唧，木蘭當戶織。不聞機杼聲，惟聞女嘆息 </p>
 	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
 	<h2>Features</h2>
 	<ul>
