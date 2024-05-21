@@ -3,7 +3,6 @@ layout: post
 title:  "桃子姐姐的布落客開張"
 date:   2024-05-20
 description: 唧唧復唧唧，桃子當戶折。不聞機杼聲，惟聞女嘆息.問女何所思，問女何所憶。女亦無所思，女亦無所憶。昨夜見軍帖，可汗大點兵，軍書十二卷，卷卷有爺名。阿爺無大兒，桃子無長兄，愿為市鞍馬，從此替爺征。
-
 ---
 
 <p class="intro"><span class="dropcap">C</span>urabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Vestibulum id ligula porta felis euismod semper. Donec sed odio dui. Aenean lacinia bibendum nulla sed consectetur.</p>
